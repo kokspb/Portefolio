@@ -1,0 +1,10 @@
+
+.logo {
+    font-family: 'Fjalla One', sans-serif;
+    color: black;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-position: center; 
+}
